@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Legend 2048 Games</string>
+    <string name="info2048game">"
+ Plitkalarni siljitish uchun o'q tugmalaridan foydalaning . Bir xil raqamga ega ikkita plitka tegsa, ular bittaga birlashadi!
+
+ Ikkita plitka birlashganda, ular ikkita asl plitkaning yig'indisi bo'lgan yangi plitka yaratadilar. Misol uchun, agar siz 2 va 4 ni birlashtirsangiz, yangi plitka 6 bo'ladi. O'yinning maqsadi 2048 plitkaga yetguncha plitkalarni birlashtirishni davom ettirishdir . Agar tiqilib qolsangiz va boshqa plitkalarni siljita olmasangiz, R tugmachasini bosib taxtani o'zgartirishingiz mumkin .
+
+
+ 2048 - bu boshqotirma o'yini bo'lib, uning maqsadi kafellarni birlashtirish uchun panjara ustida harakatlantirish va 2048 raqami bilan plitka yaratishdir. O'yin mashhur Uchlikka asoslangan ! o'yin.
+
+ Maqsad taxtada bo'sh joy tugashidan oldin iloji boricha yuqori ball olishdir. Uchlar kabi!, bir xil raqamga ega bo'lgan ikkita plitka birlashtirilganda, ular ikkala raqamning umumiy qiymati birlashtirilgan bitta plitkaga birlashadi. 2048 telefonlar, planshetlar yoki kompyuterlarda
+
+ ijro etilishi mumkin . Bundan tashqari, onlaynda o'yinning turli xil klonlari va o'zgarishlari mavjud.
+
+
+ 2048 yilgi o'yinda yuqori ball olish uchun bir nechta narsalarni qilishingiz mumkin. Birinchidan, taxtada iloji boricha ko'proq plitkalarni saqlashga harakat qiling. Bu sizga ko'proq harakatlar qilish va 2048 plitkaga yaqinlashish imkonini beradi.
+
+ Ikkinchidan, plitkalarni iloji boricha tezroq birlashtirishga harakat qiling. Plitkalarni qanchalik tez birlashtirsangiz, shuncha ko'p ball olasiz. Nihoyat, o'z kuchlaringizdan oqilona foydalaning.
+
+  Kuchlar sizga 2048 plitkasiga tezroq erishishga yordam beradi, ammo ular raqibingizning yo'lini to'sish uchun ham ishlatilishi mumkin. Ulardan oqilona foydalaning va qisqa vaqt ichida yuqori ball olishingiz mumkin bo'ladi!"</string>
+
+</resources>
